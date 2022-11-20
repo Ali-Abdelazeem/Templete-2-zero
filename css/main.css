@@ -236,7 +236,7 @@ header .container nav {
 /* start landing  */
 .landing {
   min-height: 100vh;
-  background-image: url(images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   position: relative;
 }
@@ -332,7 +332,7 @@ header .container nav {
   border: 1px solid var(--main-color);
 }
 
-/* end landing . */
+/* end landing  */
 /* start services  */
 .services {
   padding-top: var(--section-padding);
