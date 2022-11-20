@@ -236,7 +236,7 @@ header .container nav {
 /* start landing  */
 .landing {
   min-height: 100vh;
-  background-image: url(/landing.jpg);
+  background-image: url(../landing.jpg);
   background-size: cover;
   position: relative;
 }
